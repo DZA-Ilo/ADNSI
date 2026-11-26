@@ -10,16 +10,10 @@ Un logiciel pour apprendre les bases de la cybersécurité
 
 ## 👥 L'Équipe
 
-<<<<<<< HEAD
-- **Planton Gabin** (@DZA-Ilo) : Responsable [ex: Algorithmique & Logique]
-- **Marion Quentin** (@Topititpote) : Responsable [ex: Interface Graphique & Assets]
-- **Nom Prénom** (@pseudo_git) : Responsable [ex: Gestion des données & Documentation]
-=======
 - **Planton Gabin** (@DZA-Ilo) : Le boss 😎
-- **Nom Prénom** (@pseudo_git) : Responsable [ex: Interface Graphique & Assets]
+- **Quentin Marion** (@Topitipote) : Responsable [ex: Interface Graphique & Assets]
 - **Khedidji Sana** (@snaaa123) : Responsable [ex: Gestion des données & Documentation]
 - **Nom Prénom** (@pseudo_git) : Responsable [ex: Interface Graphique & Assets]
->>>>>>> c70cfbb6ac3a31f838842418107278af67a7c9f6
 
 ## 🛠️ Aspects Techniques (Spécificités NSI)
 
