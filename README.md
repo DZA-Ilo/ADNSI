@@ -2,23 +2,24 @@
 
 ## 📝 Description
 
-Une description claire et concise (5-10 lignes) de votre projet.
+Un logiciel pour apprendre les bases de la cybersécurité
 
-- Quel est l'objectif ?
+- Commencer à apprendre de façon claire avec des applications directes pour vérifier qu'on a compris
 - Pourquoi avez-vous choisi ce sujet ?
 - En quoi répond-il aux critères d'originalité ou d'utilité des Trophées NSI ?
 
 ## 👥 L'Équipe
 
-- **Planton Gabin** (@DZA-Ilo) : Responsable [ex: Algorithmique & Logique]
+- **Planton Gabin** (@DZA-Ilo) : Le boss 😎
 - **Nom Prénom** (@pseudo_git) : Responsable [ex: Interface Graphique & Assets]
 - **Khedidji Sana** (@snaaa123) : Responsable [ex: Gestion des données & Documentation]
+- **Nom Prénom** (@pseudo_git) : Responsable [ex: Interface Graphique & Assets]
 
 ## 🛠️ Aspects Techniques (Spécificités NSI)
 
 Cette section est cruciale pour le jury. Expliquez comment vous avez utilisé le programme de NSI :
 
-- **Langages & Libs :** Python (Pygame, SQLite, etc.)
+- **Langages & Libs :** Python
 - **Structures de données :** Utilisation de dictionnaires pour gérer l'inventaire, de listes de listes pour la grille du jeu, etc.
 - **Concepts mobilisés :** - Programmation Orientée Objet (ex: classe `Player` et `Enemy`).
   - Récursivité (ex: pour l'algorithme de parcours de labyrinthe).
