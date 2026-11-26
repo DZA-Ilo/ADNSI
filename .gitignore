@@ -30,6 +30,24 @@ MANIFEST
 #   Usually these files are written by a python script from a template
 #   before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
+
+# Environnement virtuel local
+venv/
+.venv/
+
+# Fichiers et dossiers générés par Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variables d'environnement et secrets locaux
+.env
+
+# Fichiers systèmes et éditeurs (optionnel mais recommandé)
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
 *.spec
 
 # Installer logs
